@@ -90,7 +90,14 @@ campus-ai-chatbot/
 
 ## 📸 Screenshots
 
-> Login Page · Register Page · Chat with Quiz & Study Planner
+<img width="1600" height="859" alt="WhatsApp Image 2026-08-18 at 9 59 02 AM" src="https://github.com/user-attachments/assets/bb13654d-c763-4580-9ec1-48613b808a89" />
+<img width="1600" height="860" alt="WhatsApp Image 2026-08-18 at 9 59 02 AM (1)" src="https://github.com/user-attachments/assets/fabf7d3e-56af-4b9b-9a27-37ac38c8832d" />
+<img width="1600" height="817" alt="WhatsApp Image 2026-08-18 at 9 59 02 AM (2)" src="https://github.com/user-attachments/assets/2093d914-e7e1-4b22-9826-b2a34926be18" />
+<img width="1600" height="806" alt="WhatsApp Image 2026-08-18 at 9 59 01 AM" src="https://github.com/user-attachments/assets/88089a9c-5fde-4756-abbf-c7de86112aaa" />
+
+
+
+
 
 ---
 
